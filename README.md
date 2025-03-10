@@ -1,17 +1,17 @@
-# Flask Dark Mode Toggle Web App
+# 🌙 Flask Dark Mode Toggle Web App ☀️
 
-This is a simple Flask web application that provides a dark mode toggle feature.
+This is a simple Flask web application that provides a dark mode toggle feature.  
 
-## Features
-- Light/Dark mode toggle
-- Dockerized for easy deployment
+## ✨ Features
+- 🌗 Light/Dark mode toggle  
+- 🐳 Dockerized for easy deployment  
 
-## Prerequisites
-- Python 3.13.2
-- Flask
-- Docker
+## 📌 Prerequisites  
+- 🐍 Python 3.13.2  
+- ⚡ Flask  
+- 📦 Docker  
 
-## Installation
+## 🚀 Installation  
 
 ### 1. Clone the Repository
 ```sh
